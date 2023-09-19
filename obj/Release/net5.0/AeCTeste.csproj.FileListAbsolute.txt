@@ -1,0 +1,5 @@
+C:\Repositorios\AeCTeste\obj\Release\net5.0\AeCTeste.csproj.AssemblyReference.cache
+C:\Repositorios\AeCTeste\obj\Release\net5.0\AeCTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\AeCTeste\obj\Release\net5.0\AeCTeste.AssemblyInfoInputs.cache
+C:\Repositorios\AeCTeste\obj\Release\net5.0\AeCTeste.AssemblyInfo.cs
+C:\Repositorios\AeCTeste\obj\Release\net5.0\AeCTeste.csproj.CoreCompileInputs.cache
